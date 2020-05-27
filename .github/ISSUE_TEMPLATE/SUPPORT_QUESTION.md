@@ -1,6 +1,10 @@
 ---
-name: 🤗 Support Question
+name: "\U0001F917 Support Question"
 about: If you have a question, please use StackOverflow!
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 --------------^ Click "Preview" for a nicer view!

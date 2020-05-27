@@ -1,11 +1,15 @@
 ---
-name: 💥 Report an issue
-about: Report a problem with JHipster itself.
+name: "\U0001F4A5 Report an issue"
+about: Report a problem in Tinity Web App Generator
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 <!--
 - Please follow the issue template below for bug reports.
-- If you have a support request rather than a bug, please use [Stack Overflow](http://stackoverflow.com/questions/tagged/jhipster) with the JHipster tag.
+- If you have a support request rather than a bug, please use [Stack Overflow](http://stackoverflow.com/questions/tagged/jhipster) with the Tinity tag.
 - For bug reports it is mandatory to run the command `jhipster info` in your project's root folder, and paste the result here.
 - Tickets opened without any of these pieces of information will be **closed** without any explanation.
 -->
@@ -31,16 +35,16 @@ about: Report a problem with JHipster itself.
 <!-- If you can't fix the bug yourself, perhaps you can point to what might be
   causing the problem (line of code or commit) -->
 
-##### **JHipster Version(s)**
+##### **Trinity Version(s)**
 
 <!--
 Which version of JHipster are you using, is it a regression?
 -->
 
-##### **JHipster configuration**
+##### **Trinity configuration**
 
 <!--
-To provide all information we need, you should run `jhipster info` in the project root folder, and
+To provide all information we need, you should run `trinity info` in the project root folder, and
 copy/paste the result here.
 The `.yo-rc.json` file generated in the root folder is mandatory for bug reports. This will help us to replicate the scenario.
 You should remove any sensitive information like the rememberMe key or the jwtSecretKey key.
@@ -54,7 +58,7 @@ If you have a JDL please wrap it in below structure
   </details>
 -->
 
-##### **Entity configuration(s) `entityName.json` files generated in the `.jhipster` directory**
+##### **Entity configuration(s) `entityName.json` files generated in the `.trinity` directory**
 
 <!--
 If the error is during an entity creation or associated with a specific entity.
@@ -67,5 +71,5 @@ If you are using JDL, please share that configuration as well.
 
 -   [ ] Checking this box is mandatory (this is just to show you read everything)
 
-<!-- Love JHipster? Please consider supporting our collective:
-👉  https://opencollective.com/generator-jhipster/donate -->
+<!-- Love Trinity? Please consider supporting our collective:
+👉  https://opencollective.com/generator-trinity/donate -->

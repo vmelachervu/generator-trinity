@@ -1,6 +1,10 @@
 ---
-name: 🚀 Feature Request
+name: "\U0001F680 Feature Request"
 about: Suggest an improvement.
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 ##### **Overview of the feature request**
