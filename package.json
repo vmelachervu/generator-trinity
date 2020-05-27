@@ -24,8 +24,8 @@
     "homepage": "https://www.jhipster.tech/",
     "bugs": "https://github.com/jhipster/generator-jhipster/issues",
     "author": {
-        "name": "Julien Dubois",
-        "email": "",
+        "name": "Venkateswar Reddy Melachervu",
+        "email": "venkat@brillium.in",
         "url": "https://github.com/jdubois"
     },
     "main": "cli/index.js",
