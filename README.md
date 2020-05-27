@@ -1,161 +1,13 @@
-[![Logo][jhipster-image]][jhipster-url]
+[![Brillium Technologies][brillium-image]][brillium-url]
 
-[![NPM version][npm-image]][npm-url] [![Downloads][npmcharts-image]][npmcharts-url] [![Gitter][gitter-badge-image]][gitter-badge-url]
+Greetings, Web App Developers!
 
-[![Generator Build Status][github-actions-generator-image]][github-actions-url] [![Angular Build Status][github-actions-angular-image]][github-actions-url] [![React Build Status][github-actions-react-image]][github-actions-url] [![Webflux Build Status][github-actions-webflux-image]][github-actions-url] [![Azure DevOps Build Status][azure-devops-image]][azure-devops-url-main]
+Trinity web application generator is Brillium's development platform to generate, develop & deploy modern end-to-end enterprise applications with microservice architectures cloud natively with few clicks - spring back-end, web and mobile front-end shortening development time from years/months to hours/days for new solutions.
 
-Greetings, Java Hipster!
-
-Full documentation and information is available on our website at [https://www.jhipster.tech/][jhipster-url]
+Full documentation and information is available on our website at [https://www.brillium.in/][brillium-url]
 
 Please read our [guidelines](/CONTRIBUTING.md#submitting-an-issue) before submitting an issue. If your issue is a bug, please use the bug template pre-populated [here][issue-template]. For feature requests and queries you can use [this template][feature-template].
 
-## Contributing
-
-We are honoured by any contributions you may have small or large. Please refer to our [contribution guidelines and instructions document](https://github.com/jhipster/generator-jhipster/blob/master/CONTRIBUTING.md) for any information about contributing to the project.
-
-## Sponsors
-
-Support this project by becoming a sponsor! [Become a sponsor](https://opencollective.com/generator-jhipster) or [learn more about sponsoring the project](https://www.jhipster.tech/sponsors/).
-
-**Thank you to our sponsors!**
-
-### Gold Sponsors
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://developer.okta.com/signup?utm_source=JHipster&utm_medium=logo&utm_campaign=Gold-Sponsor" target="_blank">
-          <img width="200em" src="https://www.jhipster.tech/images/open-collective/okta.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="http://www.octoconsulting.com/" target="_blank">
-          <img width="200em" src="https://www.jhipster.tech/images/open-collective/octoconsulting.png">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-### Bronze sponsors
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://forsyslab.com/" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/forsyslab.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.cuba-platform.com/" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/cubaplatform.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.codefirst.co.uk" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/codefirst.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://blokt.com/" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/blokt.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://clay.global/" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/clay.png">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://uxplanet.org/" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/uxplanet.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://opencollective.com/top-web-design-agencies" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/top-web-design-agencies.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://fair-laan.se/" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/fair-laan.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://superkredit.net" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/superkredit.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://matchbanker.pl/" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/matchbanker.png">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://matchbanker.no/" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/matchbanker.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://vpngorilla.com/" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/vpngorilla.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.banksecrets.eu/" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/banksecrets.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://writersperhour.com/urgent-essay-writing-service" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/writersperhour.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.minitool.com/" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/minitool.png">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://unscramblex.com/" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/unscramblex.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://manwoman.co/pl" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/manwoman.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://edubirdie.com/" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/edubirdie.png">	
-        </a>
-      </td>
-      <td align="center" valign="middle">	
-        <a href="https://www.zadluzenia.com/" target="_blank">
-          <img width="50em" src="https://www.jhipster.tech/images/open-collective/zadluzenia.png">	
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-**Thank you to all our backers!**
-
-[![Backers][backers-image]][backers-url]
-
-## Azure Builds
-
-Additional builds at [hipster-labs/jhipster-daily-builds](https://github.com/hipster-labs/jhipster-daily-builds)
 
 | Pipeline Status                                                        |
 | :--------------------------------------------------------------------- |
@@ -179,7 +31,7 @@ Additional builds at [hipster-labs/jhipster-daily-builds](https://github.com/hip
 | [![Couchbase][github-couchbase]][github-actions]                       |
 | [![Official Windows][github-official-windows]][github-actions]         |
 
-## Analysis of the sample JHipster project
+## Analysis of the sample Trinity project
 
 [![sonar-quality-gate][sonar-quality-gate]][sonar-url] [![sonar-coverage][sonar-coverage]][sonar-url] [![sonar-bugs][sonar-bugs]][sonar-url] [![sonar-vulnerabilities][sonar-vulnerabilities]][sonar-url]
 
@@ -208,8 +60,8 @@ Additional builds at [hipster-labs/jhipster-daily-builds](https://github.com/hip
 [sonar-coverage]: https://sonarcloud.io/api/project_badges/measure?project=jhipster-sample-application&metric=coverage
 [sonar-bugs]: https://sonarcloud.io/api/project_badges/measure?project=jhipster-sample-application&metric=bugs
 [sonar-vulnerabilities]: https://sonarcloud.io/api/project_badges/measure?project=jhipster-sample-application&metric=vulnerabilities
-[jhipster-image]: https://raw.githubusercontent.com/jhipster/jhipster-artwork/master/logos/JHipster%20RGB-small100x25px.png
-[jhipster-url]: https://www.jhipster.tech/
+[brillium-image]: .github/resources/trinity-logo.png
+[brillium-url]: https://www.brillium.in/
 [npm-image]: https://badge.fury.io/js/generator-jhipster.svg
 [npm-url]: https://npmjs.org/package/generator-jhipster
 [azure-devops-image]: https://dev.azure.com/jhipster/generator-jhipster/_apis/build/status/jhipster.generator-jhipster?branchName=master
@@ -227,3 +79,5 @@ Additional builds at [hipster-labs/jhipster-daily-builds](https://github.com/hip
 [npmcharts-url]: https://npmcharts.com/compare/generator-jhipster
 [gitter-badge-image]: https://badges.gitter.im/jhipster/generator-jhipster.svg
 [gitter-badge-url]: https://gitter.im/jhipster/generator-jhipster?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+
+&copy;Brillium Technologies.
